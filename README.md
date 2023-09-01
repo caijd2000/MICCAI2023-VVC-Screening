@@ -40,7 +40,7 @@ Attention Guided Image-level Classification
 
 ### image-level pre-training
 
-    Retinanet is used for pre-training, which refers to https://github.com/yhenon/pytorch-retinanet. Then we keep the trained detection model for subsequent training.
+Retinanet is used for pre-training, which refers to https://github.com/yhenon/pytorch-retinanet. Then we keep the trained detection model for subsequent training.
 
 ### image-level training
 
