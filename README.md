@@ -11,6 +11,8 @@ Qian Wang<sup>1</sup><br>
 
 This repository contains the implementation of the methods described in "Progressive Attention Guidance for Whole Slide Vulvovaginal Candidiasis Screening", which is submitted to MICCAI 2023.
 
+Paper link: https://arxiv.org/abs/2309.02670
+
 
 
 <hr />
