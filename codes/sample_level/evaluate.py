@@ -73,7 +73,7 @@ def evaluate(net, dataloader, device,batch_size):
     label_all = np.array(label_all).astype(int)
     tp, fp, tn, fn = compute_confusion_matrix(prob_all, label_all)
     
-    print("tp,fn,tn,fp:",tp, fp, tn, fn)
+    print("tp, fp, tn, fn:",tp, fp, tn, fn)
     
     accuracy, sensitivity, specificity, F1 = compute_indexes(tp, fp, tn, fn)
     
